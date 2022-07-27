@@ -1,0 +1,21 @@
+body {
+    
+    height: 100vh;
+    background-image: url("https://www.gilbarco.com/br/sites/gilbarco.com.br/files/article/images/montar-posto-de-gasolina-1.jpg");
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+.container {
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15em;
+    max-width: 500px;
+    margin: auto;
+  
+  
+}
